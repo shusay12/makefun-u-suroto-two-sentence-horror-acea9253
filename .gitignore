@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+transcripts.tar.gz
+u-suroto-two-sentence-horror-acea9253-kit/
+BUILD-REPORT.md
